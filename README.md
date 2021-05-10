@@ -2,7 +2,7 @@
 
 ## I am a full-stack middle level developer 👋
 
-## Main Projects 🕸
+### Main Projects 🕸
 
 <div style="margin-bottom:15px">
 <a  href="https://github.com/oleg-cmd/github-readme-stats">
@@ -15,8 +15,6 @@
 
 ### Languages and tools 🎯
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-cmd&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
 ![React-Native](https://img.shields.io/badge/ReactNative-090909?style=for-the-badge&logo=react&logoColor=327182)
 ![Node](https://img.shields.io/badge/NodeJS-090909?style=for-the-badge&logo=node.js)
@@ -26,7 +24,11 @@
 ![Vue](https://img.shields.io/badge/Vue-090909?style=for-the-badge&logo=vue.js)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 
-### Contacts
+### Contacts 👁
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/OlegSelanta)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/seliantaoleg/)
+
+### Stats 🌚
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-cmd&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Oleg-cmd?tab=repositories)
