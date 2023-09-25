@@ -1,17 +1,6 @@
 [![Header](https://github.com/Oleg-cmd/oleg-cmd/blob/main/assets/photo.jpg)](https://t.me/OlegSelanta)
 
-## I am a full-stack middle level developer 👋
-
-### Main Projects 🕸
-
-<div style="margin-bottom:15px">
-<a  href="https://github.com/Oleg-cmd/Web-App-Mern">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleg-cmd&repo=Web-App-Mern" />
-</a>
-<a  href="https://github.com/Oleg-cmd/Nextjs_Site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oleg-cmd&repo=Nextjs_Site" />
-</a>
-</div>
+## <> I am a bored developer <>
 
 ### Languages and tools 🎯
 
