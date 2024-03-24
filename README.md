@@ -4,13 +4,13 @@
 
 ### Languages and tools 🎯
 
-[![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![React-Native](https://img.shields.io/badge/ReactNative-090909?style=for-the-badge&logo=react&logoColor=327182)](https://reactnative.dev/)
-[![Node](https://img.shields.io/badge/NodeJS-090909?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)](https://ru.wikipedia.org/wiki/JavaScript)
-[![NoSql](https://img.shields.io/badge/NoSql-090909?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Next](https://img.shields.io/badge/Next-090909?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![Vue](https://img.shields.io/badge/Vue-090909?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
+[![Node](https://img.shields.io/badge/NodeJS-090909?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
+[![NoSql](https://img.shields.io/badge/NoSql-090909?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)](https://www.postgresql.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ### Contacts 👁
