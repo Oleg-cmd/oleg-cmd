@@ -1,4 +1,4 @@
-[![Header](https://github.com/Oleg-cmd/oleg-cmd/blob/main/assets/photo.jpg)](https://t.me/OlegSelanta)
+[![Header](https://github.com/Oleg-cmd/oleg-cmd/blob/main/assets/image.png)](https://t.me/OlegSelanta)
 
 ## <> I am a bored developer <>
 
